@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="480" viewBox="0 0 640 480" role="img" aria-label="Nelya — in development">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="46%" r="55%">
+      <stop offset="0" stop-color="#5a5a66"/>
+      <stop offset="1" stop-color="#3f3f3f"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="480" fill="url(#glow)"/>
+  <g fill="none" stroke="#d8d8e0" stroke-width="1.2" opacity="0.55">
+    <circle cx="320" cy="210" r="92"/>
+    <circle cx="320" cy="210" r="120" stroke-dasharray="3 9"/>
+  </g>
+  <path d="M352 150a70 70 0 1 0 0 120a56 56 0 1 1 0-120z" fill="#eeeef4"/>
+  <g font-family="'Segoe UI',Ubuntu,sans-serif" text-anchor="middle">
+    <text x="320" y="372" font-size="40" font-weight="300" letter-spacing="14" fill="#ffffff">NELYA</text>
+    <text x="320" y="408" font-size="15" letter-spacing="4" fill="#bdbdc8">IN DEVELOPMENT</text>
+  </g>
+</svg>
