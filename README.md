@@ -47,11 +47,30 @@ I build desktop companions for Windows: characters that live on top of your wind
       </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <img src="assets/nelya-stream-soon.svg" alt="Nelya Stream — in development" width="48%" align="left">
+      <h3>Nelya Stream</h3>
+      <p>
+        <img src="https://img.shields.io/badge/status-in%20development-111111?style=flat-square&labelColor=3a3a3a" alt="In development">
+        <img src="https://img.shields.io/badge/source-private-111111?style=flat-square&labelColor=3a3a3a" alt="Private">
+        <img src="https://img.shields.io/badge/Twitch-AI%20VTuber-111111?style=flat-square&labelColor=3a3a3a&logo=twitch&logoColor=white" alt="Twitch AI VTuber">
+      </p>
+      Nelya goes live: a separate app that turns her into an AI VTuber on Twitch.
+      <ul>
+        <li>Reads chat and reacts to bits, subs and raids</li>
+        <li>Answers out loud with the same local voice and lip-sync</li>
+        <li>Lives in her own 3D room, made in Blender</li>
+        <li>Streams through OBS; talk to her over the mic as a co-host</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ## 🔭 Currently building
 
 - **Nelya** — voice, lip-sync and gestures for a 3D companion that runs entirely on your PC.
+- **Nelya Stream** — teaching Nelya to host a Twitch stream with her chat.
 - Making local speech synthesis fast enough to talk while the character is rendering.
 
 ## ⚙️ Stack
